@@ -1,0 +1,9 @@
+# Altium Designer temporales y salidas
+History/
+__Previews/
+*.zip
+*.SchDocZip
+*.PcbDocZip
+*.PrjPcbStructure
+ProjectLogs*/
+ProjectOutputs*/
