@@ -4,7 +4,7 @@
 - Daniel Felipe Yépez Taimal
 - Santiago Cáceres Vásquez
 
-**Versión de Altium Designer:** [Inserta tu versión exacta, ej. 23.9]
+**Versión de Altium Designer: 26.9.1**
 
 **Instrucciones para abrir el proyecto:**
 1. Clonar este repositorio localmente.
