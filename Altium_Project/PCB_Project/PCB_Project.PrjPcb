@@ -103,6 +103,15 @@ GenerateClassCluster=0
 DocumentUniqueId=SMKXLIHD
 
 [Document4]
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SMKXLIHD
+
+[Document4]
+DocumentPath=..\..\Librerias\Communication_Lib.IntLib
+
+[Document5]
 DocumentPath=..\..\Librerias\Toradex_Verdin_V1_1\Verdin Development Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,8 +128,11 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=..\..\Librerias\Toradex_Verdin_V1_1\Verdin Development Board.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
