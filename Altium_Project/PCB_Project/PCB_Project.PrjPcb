@@ -528,7 +528,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LDOCVLYW
 
 [Document29]
-DocumentPath=..\..\..\..\PCB_Project.BomDoc
+DocumentPath=PCB_Project.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
