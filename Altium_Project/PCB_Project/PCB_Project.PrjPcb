@@ -324,11 +324,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ISGJLYGI
 
 [Document17]
-<<<<<<< HEAD
 DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.05\Components - 26.10.26 - 19.05.PcbLib
-=======
-DocumentPath=PCB_Project.BomDoc
->>>>>>> 930e5f8a02c27c62239669a7be056d5b9abac16b
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -344,7 +340,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
 [Document18]
 DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.05\Components - 26.10.26 - 19.05.SchLib
 AnnotationEnabled=1
@@ -532,8 +527,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDOCVLYW
 
-=======
->>>>>>> 930e5f8a02c27c62239669a7be056d5b9abac16b
+[Document29]
+DocumentPath=PCB_Project.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
