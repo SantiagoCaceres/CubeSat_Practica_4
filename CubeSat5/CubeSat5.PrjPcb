@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -31,12 +31,15 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=0
+IsProjectConflictPreventionWarningsEnabled=1
 ConstraintManagerFlow=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=5F2D315B-9E9A-4FCC-BDE0-B42FCDF8E3E9
+VaultGUID=268C978E-8611-4E52-9E2E-25AF87C4CFAF
+ReleaseVaultName=Santiago Caceres
+ItemGUID=5F2D315B-9E9A-4FCC-BDE0-B42FCDF8E3E9
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -52,6 +55,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Comunicaciones.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SMKXLIHD
+
+[Document2]
+DocumentPath=Computador_Abordo.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LINIBMBE
+
+[Document3]
 DocumentPath=Top_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -68,466 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDPGRKAH
 
-[Document2]
-DocumentPath=Computador_Abordo.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LINIBMBE
-
-[Document3]
-DocumentPath=Comunicaciones.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SMKXLIHD
-
 [Document4]
-DocumentPath=..\..\Librerias\Communication_Lib.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DYDIUFAV
-
-[Document5]
-DocumentPath=..\..\Librerias\Toradex_Verdin_V1_1\Verdin Development Board.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PSSLWDAK
-
-[Document6]
-DocumentPath=..\..\Librerias\Toradex_Verdin_V1_1\Verdin Development Board.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VXZRGUSQ
-
-[Document7]
-DocumentPath=..\..\Librerias\MicroSD_Hirose\Components - 26.10.26 - 02.19\Components - 26.10.26 - 02.19.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HBXNHHJN
-
-[Document8]
-DocumentPath=..\..\Librerias\MicroSD_Hirose\Components - 26.10.26 - 02.19\Components - 26.10.26 - 02.19.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SOUYAXVM
-
-[Document9]
-DocumentPath=..\..\Librerias\TXU0304PWR\TXU0304PWR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BRCGKVHG
-
-[Document10]
-DocumentPath=..\..\Librerias\TXU0304PWR\TXU0304PWR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PKRJPOTW
-
-[Document11]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 14.02\Components - 26.10.26 - 14.02.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 14.02\Components - 26.10.26 - 14.02.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GKCDWEGE
-
-[Document13]
-DocumentPath=..\..\Librerias\ul_TXU0202DCUR\Altium\TXU0202DCUR\TXU0202DCUR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EFGUBUIJ
-
-[Document14]
-DocumentPath=..\..\Librerias\ul_TXU0202DCUR\Altium\TXU0202DCUR\TXU0202DCUR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LSLTUERY
-
-[Document15]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 15.48\Components - 26.10.26 - 15.48.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 15.48\Components - 26.10.26 - 15.48.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ISGJLYGI
-
-[Document17]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.05\Components - 26.10.26 - 19.05.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.05\Components - 26.10.26 - 19.05.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PURFZGGF
-
-[Document19]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.27\Components - 26.10.26 - 19.27.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.27\Components - 26.10.26 - 19.27.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IAROCPLU
-
-[Document21]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.51\Components - 26.10.26 - 19.51.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 19.51\Components - 26.10.26 - 19.51.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BTNEANTS
-
-[Document23]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 20.09\Components - 26.10.26 - 20.09.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document24]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 20.09\Components - 26.10.26 - 20.09.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PZCQVGFD
-
-[Document25]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 20.34\Components - 26.10.26 - 20.34.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 20.34\Components - 26.10.26 - 20.34.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FSOZARPB
-
-[Document27]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 21.23\Components - 26.10.26 - 21.23.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document28]
-DocumentPath=..\..\Librerias\Components - 26.10.26 - 21.23\Components - 26.10.26 - 21.23.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LDOCVLYW
-
-[Document29]
 DocumentPath=PCB_Project.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,6 +121,78 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document5]
+DocumentPath=PCB1_Esta_SI.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KCIHCVWD
+
+[Document6]
+DocumentPath=Master.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DVKWUVYJ
+
+[Document7]
+DocumentPath=Master.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PNRSFWEG
+
+[Document8]
+DocumentPath=Communication_Lib.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CubeSat5\Design Rule Check - PCB1_Esta_SI.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1534,11 +1184,11 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=CC1120.SchLib
-ComponentDesignItemID0=CMP-04924-000017-1
+ComponentLibIdentifierKind0=Vault Name
+ComponentLibraryIdentifier0=Santiago Caceres
+ComponentDesignItemID0=CMP-031-00010-1
 ComponentSymbolReference0=CMP-04924-000017-1
-ComponentUpdate0=1
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1559,74 +1209,104 @@ ParameterName1=Comment
 ParameterUpdate1=1
 ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Current - Receiving
+ParameterName3=Component Type
 ParameterUpdate3=1
-ParameterName4=Current - Transmitting
+ParameterName4=Contact Plating
 ParameterUpdate4=1
-ParameterName5=Data Rate
+ParameterName5=Current - Receiving
 ParameterUpdate5=1
-ParameterName6=Density
+ParameterName6=Current - Transmitting
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=Data Rate
 ParameterUpdate7=1
-ParameterName8=Frequency
+ParameterName8=Density
 ParameterUpdate8=1
-ParameterName9=Interface
+ParameterName9=Description
 ParameterUpdate9=1
-ParameterName10=Lead Free
+ParameterName10=Design Item ID
 ParameterUpdate10=1
-ParameterName11=Library Reference
+ParameterName11=Frequency
 ParameterUpdate11=1
-ParameterName12=Max Frequency
+ParameterName12=Height
 ParameterUpdate12=1
-ParameterName13=Max Operating Temperature
+ParameterName13=Interface
 ParameterUpdate13=1
-ParameterName14=Max Supply Voltage
+ParameterName14=Lead Free
 ParameterUpdate14=1
-ParameterName15=Min Frequency
+ParameterName15=Length
 ParameterUpdate15=1
-ParameterName16=Min Operating Temperature
+ParameterName16=Library Reference
 ParameterUpdate16=1
-ParameterName17=Min Supply Voltage
+ParameterName17=Logic Function
 ParameterUpdate17=1
-ParameterName18=Mount
+ParameterName18=Manufacturer Name
 ParameterUpdate18=1
-ParameterName19=Number of Pins
+ParameterName19=Manufacturer Part No.
 ParameterUpdate19=1
-ParameterName20=Number of Receivers
+ParameterName20=Max Frequency
 ParameterUpdate20=1
-ParameterName21=Number of Transmitters
+ParameterName21=Max Operating Temperature
 ParameterUpdate21=1
-ParameterName22=Output Power (dBm)
+ParameterName22=Max Supply Voltage
 ParameterUpdate22=1
-ParameterName23=Package Quantity
+ParameterName23=Min Frequency
 ParameterUpdate23=1
-ParameterName24=Packaging
+ParameterName24=Min Operating Temperature
 ParameterUpdate24=1
-ParameterName25=Radiation Hardening
+ParameterName25=Min Supply Voltage
 ParameterUpdate25=1
-ParameterName26=REACH SVHC
+ParameterName26=Mount
 ParameterUpdate26=1
-ParameterName27=RoHS Compliant
+ParameterName27=Number of Bits
 ParameterUpdate27=1
-ParameterName28=Sensitivity
+ParameterName28=Number of Channels
 ParameterUpdate28=1
-ParameterName29=Series
+ParameterName29=Number of Inputs
 ParameterUpdate29=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=FP-RHB0032E-IPC_A
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=FP-RHB0032E-IPC_B
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=FP-RHB0032E-IPC_C
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=FP-RHB0032E-MFG
-ModelUpdate3=1
+ParameterName30=Number of Outputs
+ParameterUpdate30=1
+ParameterName31=Number of Receivers
+ParameterUpdate31=1
+ParameterName32=Number of Transmitters
+ParameterUpdate32=1
+ParameterName33=Output Current
+ParameterUpdate33=1
+ParameterName34=Output Power (dBm)
+ParameterUpdate34=1
+ParameterName35=Output Type
+ParameterUpdate35=1
+ParameterName36=Package
+ParameterUpdate36=1
+ParameterName37=Package Quantity
+ParameterUpdate37=1
+ParameterName38=Packaging
+ParameterUpdate38=1
+ParameterName39=Pin Count
+ParameterUpdate39=1
+ParameterName40=Pins
+ParameterUpdate40=1
+ParameterName41=Propagation Delay
+ParameterUpdate41=1
+ParameterName42=Radiation Hardening
+ParameterUpdate42=1
+ParameterName43=REACH SVHC
+ParameterUpdate43=1
+ParameterName44=RoHS Compliant
+ParameterUpdate44=1
+ParameterName45=Sensitivity
+ParameterUpdate45=1
+ParameterName46=Series
+ParameterUpdate46=1
+ParameterName47=Source
+ParameterUpdate47=1
+ParameterName48=Termination
+ParameterUpdate48=1
+ParameterName49=Turn-On Delay Time
+ParameterUpdate49=1
+ParameterName50=Weight
+ParameterUpdate50=1
+ParameterName51=Width
+ParameterUpdate51=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
